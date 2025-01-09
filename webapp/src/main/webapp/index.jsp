@@ -11,7 +11,7 @@
         <h1>Welcome to the JTT Greeting App</h1>
         <h2> If you see this, you have successfully released a simple greeting App. Congratulations </h2>
         <label for="name">Enter your name:</label>
-        <input type="text" id="name" placeholder="Your Name">
+        <input type="text" id="name" placeholder="Enter Your Name">
         <button onclick="displayGreeting()">Show Greeting</button>
         <p id="greeting"></p>
     </div>
